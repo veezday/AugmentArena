@@ -1,0 +1,5 @@
+ru.veezeday.dev.test.android-androidTest-0 /home/veezeday/Documents/MyProjects/AugmentArena/android/build/generated/res/resValues/androidTest/debug
+ru.veezeday.dev.test.android-androidTest-1 /home/veezeday/Documents/MyProjects/AugmentArena/android/build/generated/res/rs/androidTest/debug
+ru.veezeday.dev.test.android-mergeDebugAndroidTestResources-2 /home/veezeday/Documents/MyProjects/AugmentArena/android/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+ru.veezeday.dev.test.android-mergeDebugAndroidTestResources-3 /home/veezeday/Documents/MyProjects/AugmentArena/android/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+ru.veezeday.dev.test.android-merged_res-4 /home/veezeday/Documents/MyProjects/AugmentArena/android/build/intermediates/merged_res/debugAndroidTest

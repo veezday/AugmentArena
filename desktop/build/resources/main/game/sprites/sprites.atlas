@@ -1,0 +1,31 @@
+sprites.png
+	size: 232, 148
+	repeat: none
+beam
+	bounds: 216, 100, 4, 48
+enemy
+	bounds: 166, 50, 48, 48
+frame_bkue
+	bounds: 66, 100, 48, 48
+frame_cyan
+	bounds: 66, 50, 48, 48
+frame_green
+	bounds: 100, 0, 48, 48
+frame_orange
+	bounds: 150, 0, 48, 48
+frame_pink
+	bounds: 50, 0, 48, 48
+frame_purple
+	bounds: 116, 50, 48, 48
+frame_red
+	bounds: 166, 100, 48, 48
+frame_yellow
+	bounds: 0, 34, 48, 48
+particle
+	bounds: 200, 16, 32, 32
+player
+	bounds: 116, 100, 48, 48
+pre_particle
+	bounds: 0, 0, 32, 32
+stone_wall
+	bounds: 0, 84, 64, 64

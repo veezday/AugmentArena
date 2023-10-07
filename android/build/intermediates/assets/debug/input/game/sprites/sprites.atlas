@@ -1,0 +1,17 @@
+sprites.png
+	size: 929, 640
+	repeat: none
+enemy
+	bounds: 801, 318, 96, 96
+particle
+	bounds: 801, 252, 32, 32
+plains_bg
+	bounds: 0, 0, 800, 640
+player
+	bounds: 801, 415, 96, 96
+pre_particle
+	bounds: 801, 285, 32, 32
+stone_wall
+	bounds: 801, 512, 128, 128
+sword_medium
+	bounds: 898, 415, 19, 96

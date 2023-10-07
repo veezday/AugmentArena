@@ -1,0 +1,4 @@
+#Thu Sep 07 14:26:07 NOVT 2023
+base.0=/home/veezeday/Documents/MyProjects/AugmentArena/android/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,191 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:2:1-29:12
+MERGED from [com.badlogicgames.gdx-controllers:gdx-controllers-android:2.2.1] /home/veezeday/.gradle/caches/transforms-3/18fa8daea216e3de54df2a24c6acd209/transformed/gdx-controllers-android-2.2.1/AndroidManifest.xml:2:1-11:12
+MERGED from [de.golfgl.gdxgamesvcs:gdx-gamesvcs-android-gpgs:1.1.0] /home/veezeday/.gradle/caches/transforms-3/07478212f153e4e78a0b8116e48f4e17/transformed/gdx-gamesvcs-android-gpgs-1.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-games:16.0.0] /home/veezeday/.gradle/caches/transforms-3/e37e0910673008cad82a1a98cb6d1c9d/transformed/play-services-games-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] /home/veezeday/.gradle/caches/transforms-3/e378ece1a79df346840d16456d38be1e/transformed/play-services-drive-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/veezeday/.gradle/caches/transforms-3/e6ebad71d953c55e7452018915f3d107/transformed/play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/veezeday/.gradle/caches/transforms-3/ec8a3b0b741e2e95c5ed431f83e1a2f6/transformed/play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/veezeday/.gradle/caches/transforms-3/432d3e1cfa8dc7cacd88bac097bcb29c/transformed/play-services-basement-16.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/veezeday/.gradle/caches/transforms-3/e12ea7f668445b70a30091db509bb80f/transformed/support-v4-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/veezeday/.gradle/caches/transforms-3/b11362fd9664d0906fa15b3c8d9e0306/transformed/support-media-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/veezeday/.gradle/caches/transforms-3/78b2c7a5edb5b14cb53798c4283c1038/transformed/support-fragment-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/veezeday/.gradle/caches/transforms-3/19711572ce8e4c6105f47ecf371695b4/transformed/support-core-utils-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/veezeday/.gradle/caches/transforms-3/c33c5e3e29cdfe436cd664108de10f12/transformed/support-core-ui-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/veezeday/.gradle/caches/transforms-3/95495349073b24f6b46df1432ecd2d01/transformed/support-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/veezeday/.gradle/caches/transforms-3/dce2906f10f80d6c75a5ca471590aeb3/transformed/runtime-1.0.0/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:4:5-30
+		INJECTED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml
+		INJECTED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml
+		ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml
+		ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:2:11-69
+uses-feature#0x00020000
+ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:6:5-78
+	android:glEsVersion
+		ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:6:19-51
+	android:required
+		ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:6:52-75
+application
+ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:8:5-27:19
+MERGED from [com.badlogicgames.gdx-controllers:gdx-controllers-android:2.2.1] /home/veezeday/.gradle/caches/transforms-3/18fa8daea216e3de54df2a24c6acd209/transformed/gdx-controllers-android-2.2.1/AndroidManifest.xml:9:5-20
+MERGED from [com.badlogicgames.gdx-controllers:gdx-controllers-android:2.2.1] /home/veezeday/.gradle/caches/transforms-3/18fa8daea216e3de54df2a24c6acd209/transformed/gdx-controllers-android-2.2.1/AndroidManifest.xml:9:5-20
+MERGED from [de.golfgl.gdxgamesvcs:gdx-gamesvcs-android-gpgs:1.1.0] /home/veezeday/.gradle/caches/transforms-3/07478212f153e4e78a0b8116e48f4e17/transformed/gdx-gamesvcs-android-gpgs-1.1.0/AndroidManifest.xml:9:5-20
+MERGED from [de.golfgl.gdxgamesvcs:gdx-gamesvcs-android-gpgs:1.1.0] /home/veezeday/.gradle/caches/transforms-3/07478212f153e4e78a0b8116e48f4e17/transformed/gdx-gamesvcs-android-gpgs-1.1.0/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-games:16.0.0] /home/veezeday/.gradle/caches/transforms-3/e37e0910673008cad82a1a98cb6d1c9d/transformed/play-services-games-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:16.0.0] /home/veezeday/.gradle/caches/transforms-3/e37e0910673008cad82a1a98cb6d1c9d/transformed/play-services-games-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] /home/veezeday/.gradle/caches/transforms-3/e378ece1a79df346840d16456d38be1e/transformed/play-services-drive-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] /home/veezeday/.gradle/caches/transforms-3/e378ece1a79df346840d16456d38be1e/transformed/play-services-drive-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/veezeday/.gradle/caches/transforms-3/e6ebad71d953c55e7452018915f3d107/transformed/play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/veezeday/.gradle/caches/transforms-3/e6ebad71d953c55e7452018915f3d107/transformed/play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/veezeday/.gradle/caches/transforms-3/ec8a3b0b741e2e95c5ed431f83e1a2f6/transformed/play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/veezeday/.gradle/caches/transforms-3/ec8a3b0b741e2e95c5ed431f83e1a2f6/transformed/play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/veezeday/.gradle/caches/transforms-3/432d3e1cfa8dc7cacd88bac097bcb29c/transformed/play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/veezeday/.gradle/caches/transforms-3/432d3e1cfa8dc7cacd88bac097bcb29c/transformed/play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/veezeday/.gradle/caches/transforms-3/e12ea7f668445b70a30091db509bb80f/transformed/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/veezeday/.gradle/caches/transforms-3/e12ea7f668445b70a30091db509bb80f/transformed/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/veezeday/.gradle/caches/transforms-3/b11362fd9664d0906fa15b3c8d9e0306/transformed/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/veezeday/.gradle/caches/transforms-3/b11362fd9664d0906fa15b3c8d9e0306/transformed/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/veezeday/.gradle/caches/transforms-3/78b2c7a5edb5b14cb53798c4283c1038/transformed/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/veezeday/.gradle/caches/transforms-3/78b2c7a5edb5b14cb53798c4283c1038/transformed/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/veezeday/.gradle/caches/transforms-3/19711572ce8e4c6105f47ecf371695b4/transformed/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/veezeday/.gradle/caches/transforms-3/19711572ce8e4c6105f47ecf371695b4/transformed/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/veezeday/.gradle/caches/transforms-3/c33c5e3e29cdfe436cd664108de10f12/transformed/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/veezeday/.gradle/caches/transforms-3/c33c5e3e29cdfe436cd664108de10f12/transformed/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/veezeday/.gradle/caches/transforms-3/95495349073b24f6b46df1432ecd2d01/transformed/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/veezeday/.gradle/caches/transforms-3/95495349073b24f6b46df1432ecd2d01/transformed/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/veezeday/.gradle/caches/transforms-3/dce2906f10f80d6c75a5ca471590aeb3/transformed/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/veezeday/.gradle/caches/transforms-3/dce2906f10f80d6c75a5ca471590aeb3/transformed/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:14:9-41
+	android:fullBackupContent
+		ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:10:9-41
+	android:appCategory
+		ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:13:9-35
+	tools:ignore
+		ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:15:9-39
+	android:icon
+		ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:9:9-35
+	android:isGame
+		ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:12:9-30
+activity#ru.veezeday.dev.AndroidLauncher
+ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:16:9-26:20
+	android:screenOrientation
+		ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:19:13-50
+	android:label
+		ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:18:13-45
+	android:exported
+		ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:21:13-36
+	android:configChanges
+		ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:20:13-107
+	android:name
+		ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:17:13-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml
+INJECTED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml
+MERGED from [com.badlogicgames.gdx-controllers:gdx-controllers-android:2.2.1] /home/veezeday/.gradle/caches/transforms-3/18fa8daea216e3de54df2a24c6acd209/transformed/gdx-controllers-android-2.2.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.badlogicgames.gdx-controllers:gdx-controllers-android:2.2.1] /home/veezeday/.gradle/caches/transforms-3/18fa8daea216e3de54df2a24c6acd209/transformed/gdx-controllers-android-2.2.1/AndroidManifest.xml:5:5-7:41
+MERGED from [de.golfgl.gdxgamesvcs:gdx-gamesvcs-android-gpgs:1.1.0] /home/veezeday/.gradle/caches/transforms-3/07478212f153e4e78a0b8116e48f4e17/transformed/gdx-gamesvcs-android-gpgs-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [de.golfgl.gdxgamesvcs:gdx-gamesvcs-android-gpgs:1.1.0] /home/veezeday/.gradle/caches/transforms-3/07478212f153e4e78a0b8116e48f4e17/transformed/gdx-gamesvcs-android-gpgs-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-games:16.0.0] /home/veezeday/.gradle/caches/transforms-3/e37e0910673008cad82a1a98cb6d1c9d/transformed/play-services-games-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:16.0.0] /home/veezeday/.gradle/caches/transforms-3/e37e0910673008cad82a1a98cb6d1c9d/transformed/play-services-games-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] /home/veezeday/.gradle/caches/transforms-3/e378ece1a79df346840d16456d38be1e/transformed/play-services-drive-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] /home/veezeday/.gradle/caches/transforms-3/e378ece1a79df346840d16456d38be1e/transformed/play-services-drive-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/veezeday/.gradle/caches/transforms-3/e6ebad71d953c55e7452018915f3d107/transformed/play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/veezeday/.gradle/caches/transforms-3/e6ebad71d953c55e7452018915f3d107/transformed/play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/veezeday/.gradle/caches/transforms-3/ec8a3b0b741e2e95c5ed431f83e1a2f6/transformed/play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/veezeday/.gradle/caches/transforms-3/ec8a3b0b741e2e95c5ed431f83e1a2f6/transformed/play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/veezeday/.gradle/caches/transforms-3/432d3e1cfa8dc7cacd88bac097bcb29c/transformed/play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/veezeday/.gradle/caches/transforms-3/432d3e1cfa8dc7cacd88bac097bcb29c/transformed/play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/veezeday/.gradle/caches/transforms-3/e12ea7f668445b70a30091db509bb80f/transformed/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/veezeday/.gradle/caches/transforms-3/e12ea7f668445b70a30091db509bb80f/transformed/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/veezeday/.gradle/caches/transforms-3/b11362fd9664d0906fa15b3c8d9e0306/transformed/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/veezeday/.gradle/caches/transforms-3/b11362fd9664d0906fa15b3c8d9e0306/transformed/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/veezeday/.gradle/caches/transforms-3/78b2c7a5edb5b14cb53798c4283c1038/transformed/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/veezeday/.gradle/caches/transforms-3/78b2c7a5edb5b14cb53798c4283c1038/transformed/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/veezeday/.gradle/caches/transforms-3/19711572ce8e4c6105f47ecf371695b4/transformed/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/veezeday/.gradle/caches/transforms-3/19711572ce8e4c6105f47ecf371695b4/transformed/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/veezeday/.gradle/caches/transforms-3/c33c5e3e29cdfe436cd664108de10f12/transformed/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/veezeday/.gradle/caches/transforms-3/c33c5e3e29cdfe436cd664108de10f12/transformed/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/veezeday/.gradle/caches/transforms-3/95495349073b24f6b46df1432ecd2d01/transformed/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/veezeday/.gradle/caches/transforms-3/95495349073b24f6b46df1432ecd2d01/transformed/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/veezeday/.gradle/caches/transforms-3/dce2906f10f80d6c75a5ca471590aeb3/transformed/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/veezeday/.gradle/caches/transforms-3/dce2906f10f80d6c75a5ca471590aeb3/transformed/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml
+INJECTED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /home/veezeday/.gradle/caches/transforms-3/e12ea7f668445b70a30091db509bb80f/transformed/support-v4-26.1.0/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml
+		ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml
+		INJECTED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml
+		ADDED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml
+		INJECTED from /home/veezeday/Documents/MyProjects/AugmentArena/android/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/veezeday/.gradle/caches/transforms-3/e6ebad71d953c55e7452018915f3d107/transformed/play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/veezeday/.gradle/caches/transforms-3/e6ebad71d953c55e7452018915f3d107/transformed/play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/veezeday/.gradle/caches/transforms-3/e6ebad71d953c55e7452018915f3d107/transformed/play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/veezeday/.gradle/caches/transforms-3/e6ebad71d953c55e7452018915f3d107/transformed/play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/veezeday/.gradle/caches/transforms-3/432d3e1cfa8dc7cacd88bac097bcb29c/transformed/play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/veezeday/.gradle/caches/transforms-3/432d3e1cfa8dc7cacd88bac097bcb29c/transformed/play-services-basement-16.0.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/veezeday/.gradle/caches/transforms-3/432d3e1cfa8dc7cacd88bac097bcb29c/transformed/play-services-basement-16.0.1/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /home/veezeday/.gradle/caches/transforms-3/e12ea7f668445b70a30091db509bb80f/transformed/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/veezeday/.gradle/caches/transforms-3/b11362fd9664d0906fa15b3c8d9e0306/transformed/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/veezeday/.gradle/caches/transforms-3/b11362fd9664d0906fa15b3c8d9e0306/transformed/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/veezeday/.gradle/caches/transforms-3/78b2c7a5edb5b14cb53798c4283c1038/transformed/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/veezeday/.gradle/caches/transforms-3/78b2c7a5edb5b14cb53798c4283c1038/transformed/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/veezeday/.gradle/caches/transforms-3/19711572ce8e4c6105f47ecf371695b4/transformed/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/veezeday/.gradle/caches/transforms-3/19711572ce8e4c6105f47ecf371695b4/transformed/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/veezeday/.gradle/caches/transforms-3/c33c5e3e29cdfe436cd664108de10f12/transformed/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/veezeday/.gradle/caches/transforms-3/c33c5e3e29cdfe436cd664108de10f12/transformed/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/veezeday/.gradle/caches/transforms-3/95495349073b24f6b46df1432ecd2d01/transformed/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/veezeday/.gradle/caches/transforms-3/95495349073b24f6b46df1432ecd2d01/transformed/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /home/veezeday/.gradle/caches/transforms-3/e12ea7f668445b70a30091db509bb80f/transformed/support-v4-26.1.0/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /home/veezeday/.gradle/caches/transforms-3/e12ea7f668445b70a30091db509bb80f/transformed/support-v4-26.1.0/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/veezeday/.gradle/caches/transforms-3/dce2906f10f80d6c75a5ca471590aeb3/transformed/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/veezeday/.gradle/caches/transforms-3/dce2906f10f80d6c75a5ca471590aeb3/transformed/runtime-1.0.0/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/veezeday/.gradle/caches/transforms-3/dce2906f10f80d6c75a5ca471590aeb3/transformed/runtime-1.0.0/AndroidManifest.xml:26:13-58
